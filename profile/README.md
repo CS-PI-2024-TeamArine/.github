@@ -3,7 +3,7 @@ Membros da Equipe
 
 Iago Gonçalves de Meira - Scrum Master
 
-Fabio Roberto Pereira Filho - Product Owner \n a
+Fabio Roberto Pereira Filho - Product Owner
 
 Theo Penteado Zepponi - Desenvolvedor
 
