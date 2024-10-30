@@ -9,6 +9,9 @@ Theo Penteado Zepponi - Desenvolvedor
 
 Gregory Vinicius Clariano Silva - Desenvolvedor
 
+
+## Diagrama de Classe do Projeto
+
 ```mermaid
 
 classDiagram
